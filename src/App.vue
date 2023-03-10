@@ -27,7 +27,8 @@ $gray: rgb(51, 51, 51);
 }
 
 body {
-  background: #f5f7f9
+  background: #f5f7f9;
+
 }
 
 a {
